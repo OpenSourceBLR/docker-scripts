@@ -1,0 +1,1 @@
+/usr/bin/docker --tlsverify --tlscacert=/etc/docker/x509/ca.cert.pem --tlscert=/etc/docker/x509/ronaldo.football.strikr.in.cert.pem --tlskey=/etc/docker/x509/ronaldo.football.strikr.in.key.pem -H=10.5.5.1:2376 version
